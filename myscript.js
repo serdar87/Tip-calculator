@@ -1,11 +1,11 @@
-var resulttip = 0;
-var resultperson = 0;
-var billamount = 0;
-var personnumber = 0;
-var tipamount = 0;
-var totalamount = 0;
-var btn = document.querySelectorAll(".button1");
-var tipSelected=0;
+let resulttip = 0;
+let resultperson = 0;
+let billamount = 0;
+let personnumber = 0;
+let tipamount = 0;
+let totalamount = 0;
+let btn = document.querySelectorAll(".button1");
+let tipSelected=0;
 
 
 function calculate() {
