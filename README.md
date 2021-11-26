@@ -3,8 +3,6 @@ Frontendmentor Challange-6
 ![desktop-preview](https://user-images.githubusercontent.com/83467033/141173867-1f7328ed-c72b-493a-8604-5324c739a762.jpg)
 # Frontend Mentor - Tip calculator app
 
-![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
